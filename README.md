@@ -1,1 +1,2 @@
-# BI_Projects_2
+Bharat Intern Project 2 
+Portfolio website
